@@ -11,9 +11,9 @@
 </p> 
 
 - 🏢 I'm a fullstack developer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
-- ⚡ Fun Fact: 'To be or not to be'
+- ⚡  Fact: 'To be or not to be'
 
 
 
